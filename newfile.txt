@@ -1,1 +1,3 @@
 smth
+
+changing the line to have a conflict
